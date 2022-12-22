@@ -1,0 +1,8 @@
+user@wikipedia:~$ ls
+workreports games encyclopedia text.txt
+user@wikipedia:~$ cd games
+user@wikipedia:~/games$
+
+
+
+C:\> dir workreports <DIR> Wed Oct 9th 9:01 games <DIR> Tue Oct 8th 14:32 encyclopedia <DIR> Mon Oct 1st 10:05 text txt 1903 Thu Oct10th 12:43 C:\> cd games C:\games>
